@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="160" viewBox="0 0 128 160">
+
+<ellipse cx="64" cy="148" rx="52" ry="10" fill="#000" opacity="0.18"/>
+<path d="M 64 30 L 18 112 L 110 112 Z" fill="#c0392b" stroke="#2e1f14" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 64 30 L 22 112 L 36 112 Z" fill="#c0392b"/><path d="M 64 30 L 36 112 L 50 112 Z" fill="#f7efd8"/><path d="M 64 30 L 50 112 L 64 112 Z" fill="#c0392b"/><path d="M 64 30 L 64 112 L 78 112 Z" fill="#f7efd8"/><path d="M 64 30 L 78 112 L 92 112 Z" fill="#c0392b"/><path d="M 64 30 L 92 112 L 106 112 Z" fill="#f7efd8"/>
+<path d="M 64 30 L 18 112 L 110 112 Z" fill="none" stroke="#2e1f14" stroke-width="3" stroke-linejoin="round"/>
+<path d="M 18 112 Q 30 120 42 112 Q 54 120 64 112 Q 76 120 88 112 Q 100 120 110 112" fill="#e8d9b5" stroke="#2e1f14" stroke-linejoin="round" stroke-linecap="round" stroke-width="2.5"/>
+<path d="M 52 112 L 64 84 L 76 112 Z" fill="#4a1d18" stroke="#2e1f14" stroke-width="2"/>
+
+<ellipse cx="64" cy="132" rx="26" ry="9" fill="#b8793a" stroke="#2e1f14" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 38 132 Q 40 148 64 150 Q 88 148 90 132" fill="#7d4f22" stroke="#2e1f14" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="64" cy="130" rx="23" ry="7" fill="#f2e6c8" stroke="#2e1f14" stroke-linejoin="round" stroke-linecap="round" stroke-width="2"/>
+<line x1="44" y1="114" x2="56" y2="128" stroke="#6b4121" stroke-width="4" stroke-linecap="round"/>
+<line x1="84" y1="114" x2="72" y2="128" stroke="#6b4121" stroke-width="4" stroke-linecap="round"/>
+<g transform="translate(64 30) scale(1)">
+<line x1="0" y1="0" x2="0" y2="-12" stroke="#2e1f14" stroke-width="3"/>
+<circle cx="0" cy="-6" r="3" fill="#e2b43c" stroke="#2e1f14" stroke-linejoin="round" stroke-linecap="round" stroke-width="2"/>
+<path d="M -5 -18 A 7 7 0 1 0 5 -18 A 5.5 5.5 0 1 1 -5 -18 Z" fill="#e2b43c" stroke="#2e1f14" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.6"/>
+</g>
+
+<line x1="14" y1="146" x2="14" y2="70" stroke="#2e1f14" stroke-width="3"/>
+<path d="M 14 74 q -7 12 -2 26 q 3 -8 4 0 q 4 -14 -2 -26 Z" fill="#f2e6c8" stroke="#2e1f14" stroke-linejoin="round" stroke-linecap="round" stroke-width="2"/>
+<circle cx="14" cy="70" r="4" fill="#e2b43c" stroke="#2e1f14" stroke-linejoin="round" stroke-linecap="round" stroke-width="2"/>
+
+<path d="M 59 139 L 64 135 L 69 139 L 69 143 L 64 139 L 59 143 Z" fill="#e2b43c" stroke="#2e1f14" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.4"/>
+</svg>

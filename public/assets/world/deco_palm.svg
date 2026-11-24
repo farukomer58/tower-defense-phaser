@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="112" viewBox="0 0 72 112">
+
+<ellipse cx="36" cy="106" rx="18" ry="5" fill="#000" opacity="0.18"/>
+<path d="M 34 106 Q 30 70 38 34" fill="none" stroke="#2e1f14" stroke-width="9" stroke-linecap="round"/>
+<path d="M 34 106 Q 30 70 38 34" fill="none" stroke="#a87a48" stroke-width="5" stroke-linecap="round"/>
+<path d="M 38 34 Q 20 34 8 52" fill="none" stroke="#2e1f14" stroke-width="9" stroke-linecap="round"/><path d="M 38 34 Q 20 34 8 52" fill="none" stroke="#4c9a3c" stroke-width="5" stroke-linecap="round"/><path d="M 38 34 Q 26 16 18 34" fill="none" stroke="#2e1f14" stroke-width="9" stroke-linecap="round"/><path d="M 38 34 Q 26 16 18 34" fill="none" stroke="#4c9a3c" stroke-width="5" stroke-linecap="round"/><path d="M 38 34 Q 38 8 38 26" fill="none" stroke="#2e1f14" stroke-width="9" stroke-linecap="round"/><path d="M 38 34 Q 38 8 38 26" fill="none" stroke="#4c9a3c" stroke-width="5" stroke-linecap="round"/><path d="M 38 34 Q 51.2 18 60 36" fill="none" stroke="#2e1f14" stroke-width="9" stroke-linecap="round"/><path d="M 38 34 Q 51.2 18 60 36" fill="none" stroke="#4c9a3c" stroke-width="5" stroke-linecap="round"/><path d="M 38 34 Q 56 36 68 54" fill="none" stroke="#2e1f14" stroke-width="9" stroke-linecap="round"/><path d="M 38 34 Q 56 36 68 54" fill="none" stroke="#4c9a3c" stroke-width="5" stroke-linecap="round"/>
+<circle cx="36" cy="38" r="3" fill="#6b4121"/><circle cx="41" cy="38" r="3" fill="#6b4121"/>
+</svg>
